@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
